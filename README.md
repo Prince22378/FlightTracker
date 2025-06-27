@@ -96,6 +96,6 @@ To better understand the app flow and design, here are some sample screenshots:
 |--------|------------|
 | ✈️ Main Screen | ![](Screenshots/MainScreen1.jpg) |
 | ✈️ Flight Searching Screen| ![](Screenshots/Searching%20Screen.jpg) |
-
-| 📊 Tracked Flights | ![](screenshots/tracked_flights.png) |
-| 🌙 Dark Theme | ![](screenshots/dark_mode.png) |
+| ✈️ Result Screen| ![](Screenshots/Result%20Screen.jpg) |
+| ✈️ Flight Selection Screen| ![](Screenshots/Screenshots/Flight%20Selection%20Screen.jpg) |
+| 📊 Tracked Flights | ![](screenshots/Screenshots/Tracked%20Screen.jpg) |
