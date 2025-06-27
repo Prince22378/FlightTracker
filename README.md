@@ -84,8 +84,10 @@ Accessing clean and relevant flight insights (like average delays and journey pa
 ## Installation
 
 ```bash
-https://github.com/Prince22378/FlightTracker.git
+git clone https://github.com/Prince22378/FlightTracker.git
+cd FlightTracker
 ```
+- Open the App in the Android Studio or Just install the app apk from this repo.
 
 
 ## Screenshots
@@ -99,3 +101,6 @@ To better understand the app flow and design, here are some sample screenshots:
 | ✈️ Result Screen| ![](Screenshots/Result%20Screen.jpg) |
 | ✈️ Flight Selection Screen| ![](Screenshots/Flight%20Selection%20Screen.jpg) |
 | 📊 Tracked Flights | ![](Screenshots/Tracked%20Screen.jpg) |
+
+
+#### Copyright @2025
