@@ -84,7 +84,7 @@ Accessing clean and relevant flight insights (like average delays and journey pa
 ## Installation
 
 ```bash
-git clone https://github.com/Prince22378/CSE535-MobileComputing_Assignments.git
+https://github.com/Prince22378/FlightTracker.git
 ```
 
 
