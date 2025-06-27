@@ -85,4 +85,14 @@ Accessing clean and relevant flight insights (like average delays and journey pa
 
 ```bash
 git clone https://github.com/Prince22378/CSE535-MobileComputing_Assignments.git
-cd CSE535-MobileComputing_Assignments/Assignment-2
+
+
+## Screenshots
+
+To better understand the app flow and design, here are some sample screenshots:
+
+| Feature | Screenshot |
+|--------|------------|
+| ✈️ Flight Search | ![](screenshots/flight_search.png) |
+| 📊 Tracked Flights | ![](screenshots/tracked_flights.png) |
+| 🌙 Dark Theme | ![](screenshots/dark_mode.png) |
