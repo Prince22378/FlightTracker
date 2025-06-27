@@ -103,4 +103,6 @@ To better understand the app flow and design, here are some sample screenshots:
 | 📊 Tracked Flights | ![](Screenshots/Tracked%20Screen.jpg) |
 
 
+## 📜 License
 
+This project is for academic and educational purposes. You may modify and extend it under standard open-source guidelines.
