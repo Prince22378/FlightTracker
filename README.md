@@ -44,7 +44,7 @@ Accessing clean and relevant flight insights (like average delays and journey pa
 ## Functionalities
 
 - 🔍 Search for flights between two airports using IATA codes.
-- ✅ Select up to **3 flights** for continuous tracking.
+-  Select up to **3 flights** for continuous tracking.
 - 📊 Analyze:
   - Average journey time
   - Departure & arrival delays
@@ -58,14 +58,14 @@ Accessing clean and relevant flight insights (like average delays and journey pa
 
 ## Features
 
-### ✈️ Flight Search & Selection
+###  Flight Search & Selection
 - Input departure & arrival airport codes.
 - Retrieve and display current flights using AviationStack API.
 - Select up to 3 flights at a time (with clear selection feedback).
 - Lazy-loaded scrollable flight cards.
 - Invalid selection prompts and reset option.
 
-### 📈 Tracked Flight History (7 Days)
+###  Tracked Flight History (7 Days)
 - Automatically logs daily data for selected flights.
 - Computes:
   - Average journey duration
